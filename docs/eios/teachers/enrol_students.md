@@ -25,7 +25,6 @@
 
 ![sync global group](sync_global_group.gif)
 
-![sync global group](sync_global_group.webm)
 
 ---
 
